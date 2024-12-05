@@ -1,0 +1,9 @@
+git init  
+git config  --local user.name "Sergiy" 
+git config  --local user.email sea5serge@gmail.com  
+git config  --global user.name "Sergiy"
+git config  --global user.email sea5serge@gmail.com  
+git status  
+git add -A  
+git status  
+git commit -a -m"First commit" 
